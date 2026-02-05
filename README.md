@@ -1,4 +1,4 @@
 # Calculator
 My first public Repository
 <br>
-Author: FAisal Rehman
+Author: FAisal (AFaisal)
